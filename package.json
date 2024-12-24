@@ -1,0 +1,23 @@
+{
+  "name": "testerotas",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.0.14",
+    "expo": "^52.0.23",
+    "expo-av": "~15.0.1",
+    "expo-screen-orientation": "~8.0.2",
+    "expo-status-bar": "~2.0.0",
+    "firebase": "^10.8.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0"
+  },
+  "private": true
+}
